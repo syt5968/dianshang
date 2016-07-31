@@ -1,0 +1,101 @@
+@charset "utf-8";
+/* CSS Document */
+*{margin:0;padding:0;font-size:12px;}
+img{border:none;}
+li{list-style:none;}
+input,select,textarea{outline:none;}
+textarea{resize:none;}
+a{text-decoration:none;color:#666666;}
+/*清除浮动*/
+.clearfix:after{content:"";display:block;clear:both;}
+.clearfix{zoom:1;}
+/*头部*/
+
+.search{width:374px;}
+.head{width:100%}
+.wrap{width:1000px; margin:0 auto;}
+.headt{height:31px;}
+.left{float:left;}
+.right{float:right;}
+.sc{margin-top:8px;}
+img{margin-right:8px; vertical-align:top;}
+.headm{background-color:#6C6; height:85px;}
+.shopcar{margin-right:57px; margin-top:24px;height:35px; width:150px;background:#ff8800;}
+.search{margin-right:30px;margin-top:23px;}
+#sear{height:35px;width:300px;line-height:35px;float:left;}
+#sousuo{height:35px; width:70px; line-height:35px;background:#ff8800;border-style:none; cursor:pointer;float:left;margin-top:2px;}
+.sh{padding:8px 5px 8px 11px;border-right:1px solid #e27a00;height:19px;}
+.st{margin-right:5px;}
+.sa{padding:8px 8px 10px 18px;}
+.sa button{border-style:none;height:12px; width:12px;cursor:pointer;margin-top:
+3px;background:url(img/number.jpg) no-repeat;}
+.car{color:#FFF;line-height:12px;position:relative;
+top:2px;}
+.nav{background:#1369c0;height:40px;}
+.nav a{width:100px; color:#FFF; line-height:40px;float:left;text-align:center;}
+.al{background:url(img/arrowb.jpg) no-repeat 168px 16px;; width:188px;font-size:16px; color:#FFF;text-align:center;line-height:40px;cursor:pointer;}
+
+.nav li{float:left;}
+.nav a:hover{background:#4593fd;}
+
+/*内容区*/
+.shop{width:188px;height:325px;background:#4593fd;}
+.se{height:64px; border-bottom: 1px #3487f2 solid;}
+.se ul{height:32px;margin-left:8px;}
+.se li{float:left; margin-left:5px;}
+.se a{text-align:center; line-height:20px;height:20px;font-size:8px;color:#CCC;}
+.big li{margin-top:10px;}
+.big a{font-size:14px;color:#FFF;font-weight:bold;}
+.big{background:url(img/arrowr.jpg) no-repeat 160px 16px;}
+.shop li:hover{background:#FFF;}
+.shop li:hover .big{background:#FFF;}
+.shop li:hover a{color:#000;}
+.shop li a{padding:3px;}
+.shop li a:hover{background:#106ac0;border-radius:8px;color:#FFF;}
+.none{width:570px;height:320px;float:left;position:absolute; top:0; left:188px;background:#FFF;display:none;}
+.none ul{float:left;margin-top:8px;}
+.fl li{float:left;text-align:center; line-height:20px; padding:3px;cursor:pointer;}
+.x{height:320px;position:relative;}
+.tl {height:40px;margin-right:20px;margin-left:15px; }
+.tl a{font-size:14px;
+    color:#4b88da; font-weight:bold;}
+.fl li:hover{color:#F60;}
+.co{height:74px;width:188px;background:url(img/pad_11.jpg) no-repeat left center;}
+.co span{font-size:25px;text-align:center;display:block;font-weight:bold;padding-top:23px;}
+.pad{height:400px;}
+.pa{width:188px;height:400px;background:#016cb2;}
+.htc{width:200px; height:280px;border:1px solid #dddddd; }
+.nfc{width:200px;border:1px solid #dddddd;height:120px}
+.pd{margin-left:15px;margin-top:10px;}
+.htc img,.nfc img{margin-left:20px;margin-top:15px;}
+
+/*底部制作*/
+.footer{margin:40px;height:230px;background:#d4d4d4;width:100%;padding-top:60px;}
+.call{text-align:center;position:relative;
+top:30px;}
+.call ul{overflow:hidden;padding-left:300px;}
+.call li{float:left;padding:10px;}
+.call li a{color:#000;}
+.ce{margin-left:50px;}
+.ce li{padding:0 10px;border-right:1px solid #000}
+.l ul{position:relative; right:80px; top:30px;}
+/*产品页面*/
+/*产品左侧导航*/
+.product{width:186px;background: #f3f3f3; border: 1px solid #cdcdcd;}
+.nav_title{font-size:14px;text-align:center;height:32px;line-height:32px;border-bottom: 1px solid #cdcdcd;}
+.nav_cont{padding-left:21px; border-bottom:1px dotted #cdcdcd;}
+.nav_cont h3{height:32px;line-height:32px;}
+.nav_cont li{float:left;width:50%;line-height:25px;}
+.nav_all{width:188px;}
+.q{overflow: hidden;}
+/*产品右侧内容*/
+.h_7{margin-top:15px;width:800px;}
+.h_7 h3{width:180px;border-bottom: #096DBA 2px solid;height:34px; line-height:34px;text-align: center;}
+.h_im{border-top: #CCCCCC 2px solid;}
+/*商品介绍*/
+.uesrposition{font-size:12px;font-family: Verdana;margin-top: 22px;margin-bottom:15px;}
+.uesrposition em{font-size:normal;}
+.userposition a:hover{text-decoration: underline;}
+.leftarea{width:309px;}
+.rightarea{width:688px;border-left:#ccc solid 1px;}
+.description{border:#ccc solid 1px;}

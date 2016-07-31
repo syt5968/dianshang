@@ -1,0 +1,295 @@
+<!DOCTYPE html>
+<html>
+<head lang="en">
+    <meta charset="UTF-8">
+    <link href="dianshang.css" rel="stylesheet" type="text/css"/>
+    <title>首页</title>
+    
+<script src="jquery-3.0.0.min.js"></script>
+<script src="dianshan.js"></script>
+</head>
+<body>
+<div class="head">
+  
+   <div class="headt">
+    <div class="wrap">
+   <div class="sc left"><a href=""><img src="img/sc.jpg" width="11" height="13"/>收藏本站</a></div>
+   <div class="sc right">欢迎来到史迪仔！<a href="">[登录]</a> <a href=""> [免费注册]</a></div>
+   </div>
+    </div>
+    <div class="headm">
+    <div class="wrap">
+    <div class="logo left">
+    <img src="img/logo.png" alt=""/>
+    </div>
+    <div class="shopcar right">
+    <div class="sh left">
+    <a href=""><img class="st" src="img/gwc.jpg" alt=""></a>
+    <a  class="car" href="">购物车</a>
+    </div>
+    <div class="sa left">
+    <span>0</span>
+    <button></button>
+    </div>
+    </div>
+    <div class="search right">
+    <input type="text" id="sear"/>
+    <input type="submit" id="sousuo" value="搜索"/>
+    </div>
+    </div>
+     </div>
+    <div class="nav">
+    <div class="wrap">
+    <ul>
+        <li class="al">全部商品分类</li>
+        <li><a href="">数码城</a></li>
+        <li><a href="">天黑黑</a></li>
+        <li><a href="">团购</a></li>
+        <li><a href="">发现</a></li>
+        <li><a href="">二手代卖</a></li>
+        <li><a href="">名品会</a></li>
+     </ul>
+   </div>
+    </div>   
+</div><!--头部完成-->
+<div class="mid">
+<div class="wrap x">
+<div class="shop left">
+        <ul>
+            <li class="se">
+                <ul>
+                    <li>
+                        <ul class="big">
+                            <li><a href="">数码</a></li>
+                           <li> <a href=""> 手机</a></li>
+                            <li><a href="">合约机</a></li>
+                        </ul></li>
+                    <li><a href="">荣耀3X</a></li>
+                    <li><a href="">智能设备</a></li>
+                    <li><a href="">单反</a></li>
+                </ul>
+            </li>
+            <li class="se">
+                <ul>
+                    <li>
+                        <ul class="big">
+                            <li><a href="">数码</a></li>
+                            <li> <a href=""> 手机</a></li>
+                            <li><a href="">合约机</a></li>
+                        </ul></li>
+                    <li><a href="">荣耀3X</a></li>
+                    <li><a href="">智能设备</a></li>
+                    <li><a href="">单反</a></li>
+                </ul>
+            </li>
+            <li class="se">
+                <ul>
+                    <li>
+                        <ul class="big">
+                            <li><a href="">数码</a></li>
+                            <li> <a href=""> 手机</a></li>
+                            <li><a href="">合约机</a></li>
+                        </ul></li>
+                    <li><a href="">荣耀3X</a></li>
+                    <li><a href="">智能设备</a></li>
+                    <li><a href="">单反</a></li>
+                </ul>
+            </li>
+            <li class="se">
+                <ul>
+                    <li>
+                        <ul class="big">
+                            <li><a href="">数码</a></li>
+                            <li> <a href=""> 手机</a></li>
+                            <li><a href="">合约机</a></li>
+                        </ul></li>
+                    <li><a href="">荣耀3X</a></li>
+                    <li><a href="">智能设备</a></li>
+                    <li><a href="">单反</a></li>
+                </ul>
+            </li>
+            <li class="se">
+                <ul>
+                    <li>
+                        <ul class="big">
+                            <li><a href="">数码</a></li>
+                            <li> <a href=""> 手机</a></li>
+                            <li><a href="">合约机</a></li>
+                        </ul></li>
+                    <li><a href="">荣耀3X</a></li>
+                    <li><a href="">智能设备</a></li>
+                    <li><a href="">单反</a></li>
+                </ul>
+            </li>
+        </ul>
+
+</div>
+<div class="photo left">
+<img src="img/1_07.jpg" width="804px" alt=""/>
+</div>
+<div class="none">
+    <ul>
+        <li class="fl">
+            <ul>
+                <li class="tl"><a href="">装机配件</a> </li>
+                <li><a href=""></a>CPU </li>
+                <li><a href=""></a>硬盘</li>
+                <li><a href=""></a>SSD固态硬盘 </li>
+                <li><a href=""></a>内存 </li>
+                <li><a href=""></a>显示 </li>
+                <li><a href=""></a>主板</li>
+                <li><a href=""></a>显卡</li>
+            </ul>
+        </li>
+        <li class="fl">
+            <ul>
+                <li class="tl"><a href="">装机配件</a> </li>
+                <li><a href=""></a>CPU </li>
+                <li><a href=""></a>硬盘</li>
+                <li><a href=""></a>SSD固态硬盘 </li>
+                <li><a href=""></a>内存 </li>
+                <li><a href=""></a>显示 </li>
+                <li><a href=""></a>主板</li>
+                <li><a href=""></a>显卡</li>
+            </ul>
+        </li>
+        <li class="fl">
+            <ul>
+                <li class="tl"><a href="">装机配件</a> </li>
+                <li><a href=""></a>CPU </li>
+                <li><a href=""></a>硬盘</li>
+                <li><a href=""></a>SSD固态硬盘 </li>
+                <li><a href=""></a>内存 </li>
+                <li><a href=""></a>显示 </li>
+                <li><a href=""></a>主板</li>
+                <li><a href=""></a>显卡</li>
+            </ul>
+        </li>
+        <li class="fl">
+            <ul>
+                <li class="tl"><a href="">装机配件</a> </li>
+                <li><a href=""></a>CPU </li>
+                <li><a href=""></a>硬盘</li>
+                <li><a href=""></a>SSD固态硬盘 </li>
+                <li><a href=""></a>内存 </li>
+                <li><a href=""></a>显示 </li>
+                <li><a href=""></a>主板</li>
+                <li><a href=""></a>显卡</li>
+            </ul>
+        </li>
+        <li class="fl">
+            <ul>
+                <li class="tl"><a href="">装机配件</a> </li>
+                <li><a href=""></a>CPU </li>
+                <li><a href=""></a>硬盘</li>
+                <li><a href=""></a>SSD固态硬盘 </li>
+                <li><a href=""></a>内存 </li>
+                <li><a href=""></a>显示 </li>
+                <li><a href=""></a>主板</li>
+                <li><a href=""></a>显卡</li>
+            </ul>
+        </li>
+    </ul>
+</div>
+</div>
+<div class="wrap y">
+<div class="co">
+<span>家用电脑</span>
+</div>
+<div class="pad">
+<div class="pa left">
+  <img src="img/pad_17.jpg"/>
+  <div class="pd">
+  <a href=""><img src="img/pad_22.jpg"/></a>
+  </div>
+</div>
+<div class="htc left">
+<img src="img/pad_15.jpg"/>
+</div>
+<div class="htc left">
+<img src="img/pad_15.jpg"/>
+</div>
+<div class="htc left">
+<img src="img/pad_15.jpg"/>
+</div>
+<div class="htc left">
+<img src="img/pad_15.jpg"/>
+</div>
+<div class="nfc left">
+<img src="img/pad_25.jpg"/>
+</div>
+<div class="nfc left">
+<img src="img/pad_27.jpg"/>
+</div>
+<div class="nfc left">
+<img src="img/pad_29.jpg"/>
+</div>
+<div class="nfc left">
+<img src="img/pad_32.jpg"/>
+</div>
+</div>
+</div>
+<div class="wrap y">
+<div class="co">
+<span>食品酒水</span>
+</div>
+<div class="pad">
+<div class="pa left">
+<img src="img/images/1_14.jpg"/>
+</div>
+<div class="htc left">
+<img src="img/pad_40.jpg"/>
+</div>
+<div class="htc left">
+<img src="img/pad_40.jpg"/>
+</div>
+<div class="htc left">
+<img src="img/pad_40.jpg"/>
+</div>
+<div class="htc left">
+<img src="img/pad_40.jpg"/>
+</div>
+<div class="nfc left">
+<img src="img/pad_48.jpg"/>
+</div>
+<div class="nfc left">
+<img src="img/pad_48.jpg"/>
+</div>
+<div class="nfc left">
+<img src="img/pad_48.jpg"/>
+</div>
+<div class="nfc left">
+<img src="img/pad_48.jpg"/>
+</div>
+</div>
+</div>
+</div><!--内容结束-->
+<div class="footer">
+<div class="wrap">
+  <div class="call">
+    <ul class="ce">
+       <li><a href="">简介</a></li>
+       <li><a href="">公告</a></li>
+       <li><a href="">招贤纳士</a></li>
+       <li><a href="">联系我们</a></li>
+       <li><a href="">客服热线：400-685-568</a></li>
+      </ul>
+      <ul>
+         <li>京ICP备09037834</li>
+         <li>京ICP备025987814</li>
+         <li>某市公安局XX分局备案编号：123467891232</li>
+      </ul>
+  </div>
+  <div class="call l">
+  <ul>
+     <li><img src="img/pad_51.jpg"/></li>
+     <li><img src="img/pad_51.jpg"/></li>
+     <li><img src="img/pad_51.jpg"/></li>
+     <li><img src="img/pad_51.jpg"/></li>
+     </ul>
+  </div>
+</div>
+</div>
+
+</body>
+</html>
